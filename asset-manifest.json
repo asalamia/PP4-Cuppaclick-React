@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PP4-Cuppaclick-React/static/css/main.15df0212.css",
+    "main.js": "/PP4-Cuppaclick-React/static/js/main.843f4ff7.js",
+    "static/js/453.37094a9a.chunk.js": "/PP4-Cuppaclick-React/static/js/453.37094a9a.chunk.js",
+    "static/media/cuppaclickLogo.jpg": "/PP4-Cuppaclick-React/static/media/cuppaclickLogo.1c94ae6bb76f61a51354.jpg",
+    "index.html": "/PP4-Cuppaclick-React/index.html",
+    "main.15df0212.css.map": "/PP4-Cuppaclick-React/static/css/main.15df0212.css.map",
+    "main.843f4ff7.js.map": "/PP4-Cuppaclick-React/static/js/main.843f4ff7.js.map",
+    "453.37094a9a.chunk.js.map": "/PP4-Cuppaclick-React/static/js/453.37094a9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15df0212.css",
+    "static/js/main.843f4ff7.js"
+  ]
+}
